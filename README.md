@@ -1,4 +1,4 @@
-# Hey, I'm Dennis.
+# C'est Dennis :)
 
 Platform Engineer. Opinionated, curious, and occasionally proven wrong by a log file.
 
