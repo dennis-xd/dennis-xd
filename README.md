@@ -4,6 +4,6 @@ DevOps Engineer. Opinionated, curious, and occasionally proven wrong by a log fi
 
 I work with go, cloud infrastructure, Kubernetes, CI/CD, and whatever production has decided to make my problem today.
 
-![My tools](https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,ansible,terraform,githubactions,bash&theme=dark)
+![My tools](https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,linux,ansible,tofu,githubactions,bash&theme=dark)
 
 Still dissatisfied. Apparently, that’s a career strategy.
